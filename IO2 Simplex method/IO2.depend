@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1602690724 source:c:\users\mex\documents\pro\io2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+
+1598899292 source:c:\users\Администратор\yandexdisk-droidm@ya.ru\doci\pro\io2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+

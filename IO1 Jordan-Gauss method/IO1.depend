@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1585326319 source:c:\users\mex\documents\pro\io1\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"matrix.h"
+
+1586901672 c:\users\mex\documents\pro\io1\matrix.h
+
+1587556351 source:c:\users\mex\documents\pro\io1\io1.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	"matrix.h"
+
